@@ -31,14 +31,34 @@ Neo4j, PostgreSQL, Fly.io
 
 ## Experience
 
+**Senior Software Engineer**
+ ~ Chief
+ ~ Remote, 09/2024 - Present
+- Led onboarding and third-party integrations using React and FastAPI, becoming the #2 contributor during MVP launch; streamlined initial user experience and expanded ecosystem connectivity across frontend and backend.
+
+- Architected core backend features with FastAPI, including user management, data ingestion, and notifications, significantly improving API performance, data processing capabilities, and system observability via OpenTelemetry and Axiom.
+
+- Shipped a production-grade real-time chat system (React/TypeScript) with SSE, Markdown/LaTeX rendering, and animated UI, driving user engagement through fast, intuitive communication and advanced state handling.
+
+- Improved data warehouse schemas and SQL efficiency, directly boosting CRM data accuracy and query speed, enabling faster, more reliable access for decision-making and operational insights.
+
+- Accelerated development and increased team velocity by introducing full-stack validation (Pydantic, TypeScript), OpenAPI codegen, and automated lint/test workflows in CI/CD—cutting bugs, standardizing code quality, and speeding up releases.
+
+
 **Senior Full Stack Developer**
- ~ Waves Market
- ~ Remote, 06/2024 - Present
+ ~ Stealth Corp
+ ~ Remote, 06/2024 - 9/2024
 
-- Migrated app to Expo, implementing continuous native integration and caching mechanisms, resulting in 1290% improvement in initial load times and enabling over-the-air updates
-- Delivered critical platform enhancements including a robust secret management system, automated creator reminders, submission tracking with CSV export, and daily database backups, significantly improving security, user engagement, and data integrity
-- Optimized user experience through strategic UI/UX improvements, including a redesigned landing page for broader creator inclusion, a dynamic top earners leaderboard, and an enhanced checkout flow, while resolving critical bugs and reducing API response times by 30%
+- Led migration of mobile app to Expo with continuous native integration, enabling over-the-air updates and achieving a 73% reduction in initial load times, dramatically improving user accessibility and deployment speed.
 
+- Delivered critical backend features including a secure secret management system, automated creator reminders, submission tracking with CSV exports, and daily database backups, enhancing security, reliability, and creator productivity.
+
+- Migrated the web app to Next.js, boosting Google PageSpeed from 30 to 70 improving SEO, performance, and user acquisition potential.
+
+- Enhanced user engagement through UX improvements such as a redesigned landing page for broader creator appeal, a dynamic leaderboard for top earners, and a streamlined checkout flow, while reducing API response times by 30%
+- Implementing strategic caching in the app to reduce startup latency by 74%,
+
+- Integrated robust observability tools (PostHog for analytics, Sentry for error tracking), enabling faster issue resolution and better product insights while maintaining a high-quality user experience.
 **Technical Lead (Contract)** 
  ~ bliver
  ~ São Paulo, Brazil, 04/2024 - 06/2024
