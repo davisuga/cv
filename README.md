@@ -34,15 +34,16 @@ Neo4j, PostgreSQL, Fly.io
 **Senior Software Engineer**
  ~ Chief
  ~ Remote, 09/2024 - Present
-- Led onboarding and third-party integrations using React and FastAPI, becoming the #2 contributor during MVP launch; streamlined initial user experience and expanded ecosystem connectivity across frontend and backend.
 
-- Architected core backend features with FastAPI, including user management, data ingestion, and notifications, significantly improving API performance, data processing capabilities, and system observability via OpenTelemetry and Axiom.
+- Built Chief's MVP from ground up as the #2 contributor, architecting 90% of the frontend (React/TypeScript) and complete backend infrastructure (Python/FastAPI) that now serves 8+ enterprise customers with $1.4M+ pipeline value.
 
-- Shipped a production-grade real-time chat system (React/TypeScript) with SSE, Markdown/LaTeX rendering, and animated UI, driving user engagement through fast, intuitive communication and advanced state handling.
+- Delivered 100x performance improvements by optimizing database queries from 3+ seconds to 30ms using row-level security and advanced caching strategies; migrated data architecture to ClickHouse, reducing pipeline runtime from 30 minutes to 4 minutes.
 
-- Improved data warehouse schemas and SQL efficiency, directly boosting CRM data accuracy and query speed, enabling faster, more reliable access for decision-making and operational insights.
+- Designed and implemented production-grade real-time chat system with Server-Sent Events, advanced state management, and Markdown/LaTeX rendering; established comprehensive observability with OpenTelemetry/Axiom, reducing debugging time and improving system reliability.
 
-- Accelerated development and increased team velocity by introducing full-stack validation (Pydantic, TypeScript), OpenAPI codegen, and automated lint/test workflows in CI/CD—cutting bugs, standardizing code quality, and speeding up releases.
+- Architected end-to-end data pipelines using Metaflow and dbt, processing CRM data from multiple sources (HubSpot, Salesforce); implemented LLM integrations with context-aware SQL generation, enabling non-technical users to query complex datasets through natural language.
+
+- Established modern development practices including OpenAPI codegen, Pydantic validation, automated CI/CD workflows, and comprehensive testing frameworks; mentored team members and conducted technical interviews, contributing to 60% improvement in development velocity.
 
 
 **Senior Full Stack Developer**
