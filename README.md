@@ -37,9 +37,11 @@ Neo4j, PostgreSQL, Fly.io
 
 - Built Chief's MVP from ground up as the #2 contributor, architecting 90% of the frontend (React/TypeScript) and complete backend infrastructure (Python/FastAPI) that now serves 8+ enterprise customers with $1.4M+ pipeline value.
 
-- Delivered 100x performance improvements by optimizing database queries from 3+ seconds to 30ms using row-level security and advanced caching strategies; migrated data architecture to ClickHouse, reducing pipeline runtime from 30 minutes to 4 minutes.
+- Delivered 100x performance improvements by optimizing database queries from 3+ seconds to 30ms using row-level security and advanced caching strategies; migrated data architecture to ClickHouse, reducing pipeline runtime from 30 minutes to 4 minutes while processing tens of millions of CRM records daily
 
 - Designed and implemented production-grade real-time chat system with Server-Sent Events, advanced state management, and Markdown/LaTeX rendering; established comprehensive observability with OpenTelemetry/Axiom, reducing debugging time and improving system reliability.
+
+- Optimized deployment processes, reducing Docker image sizes from 5GB to 1.5GB and establishing comprehensive monitoring with OpenTelemetry/Axiom that decreased incident response time by 70%
 
 - Architected end-to-end data pipelines using Metaflow and dbt, processing CRM data from multiple sources (HubSpot, Salesforce); implemented LLM integrations with context-aware SQL generation, enabling non-technical users to query complex datasets through natural language.
 
@@ -225,6 +227,8 @@ Vercel: https://gremlin-to-cypher-fe.vercel.app
 features, developing a unique application. Built a GraphQL API in OCaml backed
 by Neo4j, and designed a React frontend for visualizing connections between 2
 given artists.
+
+**Edu One - AI Adaptive Learning Platform** (Hackathon Winner) | Led development of real-time adaptive learning system using AI agents for personalized education, featuring human-like AI tutor with voice/video synthesis | 5th place at Adapta AI Challenge 2025 (6,000 applicants, R$40,000 prize)
 
 **Coding Mentor**: Mentored a friend, guiding them from JS fundamentals to
 building a highly-praised course conclusion web application project using React
