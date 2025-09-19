@@ -55,8 +55,7 @@ using Rust on AWS Kubernetes
 - Spearheaded frontend enhancements using ReScript and React,
 implementing new features and customization options for the payments
 dashboard
-<!-- - Implemented CI/CD pipelines on Cloudflare, streamlining deployment
-processes and improving team efficiency -->
+- Built distributed transaction/state management backed by PostgreSQL and Redis, integrated a secure card-vault for sensitive data, and added circuit-breakers, rate-limiting and failover to maintain SLAs
 - Achieved a 126% improvement in initial load times through strategic frontend
 infrastructure migration, enhancing user experience
 - Managed a team of engineers, coordinating efforts across backend, frontend,
