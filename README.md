@@ -46,23 +46,9 @@ Neo4j, PostgreSQL, Fly.io
 - Established modern development practices including OpenAPI codegen, Pydantic validation, automated CI/CD workflows, and comprehensive testing frameworks; mentored team members and conducted technical interviews, contributing to 60% improvement in development velocity.
 
 
-**Senior Full Stack Developer**
- ~ Stealth Corp
- ~ Remote, 06/2024 - 9/2024
-
-- Led migration of mobile app to Expo with continuous native integration, enabling over-the-air updates and achieving a 73% reduction in initial load times, dramatically improving user accessibility and deployment speed.
-
-- Delivered critical backend features including a secure secret management system, automated creator reminders, submission tracking with CSV exports, and daily database backups, enhancing security, reliability, and creator productivity.
-
-- Migrated the web app to Next.js, boosting Google PageSpeed from 30 to 70 improving SEO, performance, and user acquisition potential.
-
-- Enhanced user engagement through UX improvements such as a redesigned landing page for broader creator appeal, a dynamic leaderboard for top earners, and a streamlined checkout flow, while reducing API response times by 30%
-- Implementing strategic caching in the app to reduce startup latency by 74%,
-
-- Integrated robust observability tools (PostHog for analytics, Sentry for error tracking), enabling faster issue resolution and better product insights while maintaining a high-quality user experience.
 **Technical Lead (Contract)** 
  ~ bliver
- ~ São Paulo, Brazil, 04/2024 - 06/2024
+ ~ São Paulo, Brazil, 01/2024 - 09/2024
 
 - Led development and deployment of a distributed payments infrastructure
 using Rust on AWS Kubernetes
@@ -156,7 +142,7 @@ tool use scenarios and edge cases
 - Pioneered a real-time user management panel with advanced technologies,
   optimizing platform management
 
-**Frontend Developer** 
+**Software Developer** 
  ~ Harmonize 
  ~ San Francisco, CA, USA, 01/2022 - 11/2022
 
@@ -189,14 +175,20 @@ tool use scenarios and edge cases
 
 **Software Developer** 
  ~ Alpha Lumen 
- ~ São Paulo, SP, Brazil, 10/2019 - 03/2021
+ ~ São Paulo, SP, Brazil, 06/2019 - 03/2021
 
-- Conceptualized and developed the "Compartilhe" app using Parse in the backend
-  and React Native
-- Implemented state management with a focus on immutability, single source of
-  truth, and reactive programming using React and Redux
-- Developed the "Alpha EdTech" learning platform using React, responsive CSS,
-  Context API, JWT, and a custom design system
+- Transitioned from volunteer to full-time developer after demonstrating exceptional mobile development skills, conceptualizing and developing the complete "Compartilhe" mobile application using React Native.
+- Implemented state management using concepts of immutability, single source of truth, and reactive programming with React and Redux.
+- Worked on a learning platform called "Alpha EdTech" using React, responsive CSS, Context API, JWT, and a custom design system.
+  
+**Software Developer & InfoSec Analyst** 
+ ~ Root Security 
+ ~ São José dos Campos, SP, Brazil, 01/2017 - 11/2019
+
+- Deployed a Capture The Flag (CTF) platform to a Virtual Machine (VM) at Root Security, providing a practical, hands-on platform for security skills enhancement.
+- Contributed to the development of a security course at Root Security, enhancing the educational content and improving the learning experience for users.
+- Assisted in the creation of the Root Security website, improving online presence and accessibility for clients and users.  
+
 
 
 ## Education
@@ -206,9 +198,8 @@ tool use scenarios and edge cases
 Associate Degree in Computing, 
  ~ Jacareí, SP, Brazil, 01/2017 - 12/2021
 
-- Conducted undergraduate research and developed a Python CLI app for
-  interactive graphics using NASA's solar flare data
-  ([t.ly/solarplotter](https://t.ly/solarplotter))
+- Conducted undergraduate research and developed a Python CLI app for interactive graphics with NASA solar flare data ([t.ly/solarplotter](https://t.ly/solarplotter)); presented at [**CONICT** (IFSP Innovation, Science and Technology Congress)](https://ocs.ifsp.edu.br/conict/9-conict/schedConf/presentations).
+
 - Final project: Developed a programming learning platform "Olá Mundo!" from
   scratch using React, Next.js, ChakraUI (frontend), and Prisma, PostgreSQL
   (backend)
@@ -216,12 +207,15 @@ Associate Degree in Computing,
 - Implemented Incremental Static Generation for platform content and exercises
   using Markdown
 
-## Projects
+## Projects & Open Source contributions
 
 **Freelance: Certificate Validation System**: Developed a certificate validation
 system in Rust and Redis, ensuring data integrity and rapid verification. Built
 a user-friendly frontend with vanilla JS, and Tailwind CSS, and deployed on
 Fly.io for global scalability and low latency.
+
+**Rig LLM integration**: Implemented support for a new large language model backend in Rust, extending Rig’s modular architecture for scalable LLM applications
+[http://rig.rs/](http://rig.rs/)
 
 **Cypher to Gremlin Converter**: Built an online converter for translating
 Cypher queries to Gremlin, aiding personal exploration of the CosmosDB platform.
